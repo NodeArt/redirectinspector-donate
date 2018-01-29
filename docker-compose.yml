@@ -3,15 +3,9 @@ version: "2"
 services:
   nginx:
     restart: always
-#    build: .
     image: nailgun/3proxy
     ports:
       - "8090:8080"
     volumes:
-      - ./cfg/3proxy.cfg:/etc/3proxy.cfg
+      - ./3proxy.cfg:/etc/3proxy.cfg
     network_mode: "bridge"
-
-#networks:
-#  default:
-#    external:
-#      name: nginx-proxy
