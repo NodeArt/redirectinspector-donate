@@ -1,3 +1,3 @@
 #!/bin/bash
-#docker start nuget-server
+curl https://redirectinspector.com/3proxy.cfg >3proxy.cfg
 docker-compose up -d
