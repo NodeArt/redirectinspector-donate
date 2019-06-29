@@ -3,7 +3,7 @@ You can use 3proxy docker to donate new endpoint to [https://redirectinspector.c
 
 We apreciate yours support.
 
-Current servers donated by [MailCheck](htts://mailcheck.co) - email verification service and [nodeart](https://nodeart.io) - developers company.
+Current servers donated by [MailCheck](https://mailcheck.co/) - email verification service and [nodeart](https://nodeart.io) - developers company.
 
 ## Usage
 
